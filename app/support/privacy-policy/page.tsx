@@ -4,7 +4,7 @@ import { montserrat } from "../../fonts";
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description:
-    "Privacy policy and acceptable use guidelines for Softnix's website and services.",
+    "Privacy policy and acceptable use guidelines for Royallix's website and services.",
 };
 
 export default function PrivacyPolicy() {
@@ -25,11 +25,11 @@ export default function PrivacyPolicy() {
           <p>
             This acceptable use policy (&quot;Policy&quot;) sets forth the
             general guidelines and acceptable and prohibited uses of the
-            softnix.co website (&quot;Website&quot; or &quot;Service&quot;) and
+            royallix.co website (&quot;Website&quot; or &quot;Service&quot;) and
             any of its related products and services (collectively,
             &quot;Services&quot;). This Policy is a legally binding agreement
             between you (&quot;User&quot;, &quot;you&quot; or &quot;your&quot;)
-            and Softnix (&quot;Softnix&quot;, &quot;we&quot;, &quot;us&quot; or
+            and Royallix (&quot;Royallix&quot;, &quot;we&quot;, &quot;us&quot; or
             &quot;our&quot;). If you are entering into this Policy on behalf of
             a business or other legal entity, you represent that you have the
             authority to bind such entity to this Policy, in which in this case,
@@ -40,7 +40,7 @@ export default function PrivacyPolicy() {
             accessing and using the Website and Services, you acknowledge that
             you have read, understood, and agree to be bound by the terms of
             this Policy. You acknowledge that this Policy is a contract between
-            you and Softnix, even though it is electronic and is not physically
+            you and Royallix, even though it is electronic and is not physically
             signed by you, and it governs your use of the Website and Services.
           </p>
 

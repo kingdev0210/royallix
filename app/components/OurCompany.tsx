@@ -81,7 +81,7 @@ export function OurCompany() {
                       <img
                         decoding="async"
                         className="border-0 h-auto max-w-full align-top"
-                        src="https://softnix.co/wp-content/uploads/2024/03/our-services.jpg"
+                        src="/imgs/our-services.jpg"
                         width="800"
                         height="450"
                         alt="our-services"
@@ -124,7 +124,7 @@ export function OurCompany() {
                       <img
                         decoding="async"
                         className="border-0 h-auto max-w-full align-top"
-                        src="https://softnix.co/wp-content/uploads/2024/03/our-expertise.jpg"
+                        src="/imgs/our-expertise.jpg"
                         width="800"
                         height="450"
                         alt="our-expertise"
@@ -167,7 +167,7 @@ export function OurCompany() {
                       <img
                         decoding="async"
                         className="border-0 h-auto max-w-full align-top"
-                        src="https://softnix.co/wp-content/uploads/2024/03/our-customers.jpg"
+                        src="/imgs/our-customers.jpg"
                         width="800"
                         height="450"
                         alt="our-customers"

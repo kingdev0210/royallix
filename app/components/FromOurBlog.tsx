@@ -60,7 +60,7 @@ export function FromOurBlog() {
                               <img
                                 decoding="async"
                                 className="grayscale hover:grayscale-0 hover:opacity-80"
-                                src="https://softnix.co/wp-content/uploads/2024/12/Why-2025-is-the-Best-Time-to-Invest-in-Wearable-Apps-for-Your-Business-1190x558.jpg"
+                                src="/imgs/Why-2025-is-the-Best-Time-to-Invest-in-Wearable-Apps-for-Your-Business-1190x558.jpg"
                                 width="1190"
                                 height="558"
                                 alt="Best Time to Invest in Wearable Apps for Your Business"
@@ -108,7 +108,7 @@ export function FromOurBlog() {
                               <img
                                 decoding="async"
                                 className="grayscale hover:grayscale-0 hover:opacity-80"
-                                src="https://softnix.co/wp-content/uploads/2024/12/Top-Benefits-of-Android-App-Development-for-Startups-3-1190x558.jpg"
+                                src="/imgs/Top-Benefits-of-Android-App-Development-for-Startups-3-1190x558.jpg"
                                 width="1190"
                                 height="558"
                                 alt="Top Benefits of Android App Development for Startups"
@@ -156,7 +156,7 @@ export function FromOurBlog() {
                               <img
                                 decoding="async"
                                 className="grayscale hover:grayscale-0 hover:opacity-80"
-                                src="https://softnix.co/wp-content/uploads/2024/12/iOS-App-Development-Strategies-for-Boosting-Customer-Retention-1-1190x558.jpg"
+                                src="/imgs/iOS-App-Development-Strategies-for-Boosting-Customer-Retention-1-1190x558.jpg"
                                 width="1190"
                                 height="558"
                                 alt="iOS App Development Strategies for Boosting Customer Retention"

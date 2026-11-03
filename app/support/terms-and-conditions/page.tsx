@@ -5,7 +5,7 @@ import { montserrat } from "../../fonts";
 export const metadata: Metadata = {
   title: "Terms and Conditions",
   description:
-    "Terms and conditions outlining the rules and regulations for the use of Softnix's website.",
+    "Terms and conditions outlining the rules and regulations for the use of Royallix's website.",
 };
 
 const linkClass = "text-[#c45c4a] underline underline-offset-2";
@@ -25,24 +25,24 @@ export default function TermsAndConditions() {
           className="space-y-5 text-[15px] font-light leading-[1.85] md:text-[16px]"
           style={{ color: "#1a2a3a" }}
         >
-          <p>Welcome to Softnix!</p>
+          <p>Welcome to Royallix!</p>
 
           <p>
             These terms and conditions outline the rules and regulations for the
-            use of Softnix&apos;s Website, located at{" "}
+            use of Royallix&apos;s Website, located at{" "}
             <a
-              href="https://softnix.co"
+              href="https://royallix.co"
               className={linkClass}
               target="_blank"
               rel="noopener noreferrer"
             >
-              https://softnix.co
+              https://royallix.co
             </a>
           </p>
 
           <p>
             By accessing this website we assume you accept these terms and
-            conditions. Do not continue to use Softnix if you do not agree to
+            conditions. Do not continue to use Royallix if you do not agree to
             take all of the terms and conditions stated on this page.
           </p>
 
@@ -68,8 +68,8 @@ export default function TermsAndConditions() {
 
           <Section title="Cookies">
             <p>
-              We employ the use of cookies. By accessing Softnix, you agreed to
-              use cookies in agreement with the Softnix&apos;s{" "}
+              We employ the use of cookies. By accessing Royallix, you agreed to
+              use cookies in agreement with the Royallix&apos;s{" "}
               <Link href="/support/privacy-policy" className={linkClass}>
                 Privacy Policy
               </Link>
@@ -86,18 +86,18 @@ export default function TermsAndConditions() {
 
           <Section title="License">
             <p>
-              Unless otherwise stated, Softnix and/or its licensors own the
-              intellectual property rights for all material on Softnix. All
+              Unless otherwise stated, Royallix and/or its licensors own the
+              intellectual property rights for all material on Royallix. All
               intellectual property rights are reserved. You may access this
-              from Softnix for your own personal use subjected to restrictions
+              from Royallix for your own personal use subjected to restrictions
               set in these terms and conditions.
             </p>
             <p>You must not:</p>
             <ul className="list-disc space-y-2 pl-6">
-              <li>Republish material from Softnix</li>
-              <li>Sell, rent or sub-license material from Softnix</li>
-              <li>Reproduce, duplicate or copy material from Softnix</li>
-              <li>Redistribute content from Softnix</li>
+              <li>Republish material from Royallix</li>
+              <li>Sell, rent or sub-license material from Royallix</li>
+              <li>Reproduce, duplicate or copy material from Royallix</li>
+              <li>Redistribute content from Royallix</li>
             </ul>
             <p>
               This Agreement shall begin on the date hereof. Our Terms and
@@ -107,18 +107,18 @@ export default function TermsAndConditions() {
             <p>
               Parts of this website offer an opportunity for users to post and
               exchange opinions and information in certain areas of the website.
-              Softnix does not filter, edit, publish or review Comments prior to
+              Royallix does not filter, edit, publish or review Comments prior to
               their presence on the website. Comments do not reflect the views
-              and opinions of Softnix,its agents and/or affiliates. Comments
+              and opinions of Royallix,its agents and/or affiliates. Comments
               reflect the views and opinions of the person who post their views
-              and opinions. To the extent permitted by applicable laws, Softnix
+              and opinions. To the extent permitted by applicable laws, Royallix
               shall not be liable for the Comments or for any liability, damages
               or expenses caused and/or suffered as a result of any use of
               and/or posting of and/or appearance of the Comments on this
               website.
             </p>
             <p>
-              Softnix reserves the right to monitor all Comments and to remove
+              Royallix reserves the right to monitor all Comments and to remove
               any Comments which can be considered inappropriate, offensive or
               causes breach of these Terms and Conditions.
             </p>
@@ -144,7 +144,7 @@ export default function TermsAndConditions() {
               </li>
             </ul>
             <p>
-              You hereby grant Softnix a non-exclusive license to use,
+              You hereby grant Royallix a non-exclusive license to use,
               reproduce, edit and authorize others to use, reproduce and edit
               any of your Comments in any and all forms, formats or media.
             </p>
@@ -199,7 +199,7 @@ export default function TermsAndConditions() {
               ourselves or to our accredited businesses; (b) the organization
               does not have any negative records with us; (c) the benefit to us
               from the visibility of the hyperlink compensates the absence of
-              Softnix; and (d) the link is in the context of general resource
+              Royallix; and (d) the link is in the context of general resource
               information.
             </p>
             <p>
@@ -212,7 +212,7 @@ export default function TermsAndConditions() {
             <p>
               If you are one of the organizations listed in paragraph 2 above
               and are interested in linking to our website, you must inform us
-              by sending an e-mail to Softnix. Please include your name, your
+              by sending an e-mail to Royallix. Please include your name, your
               organization name, contact information as well as the URL of your
               site, a list of any URLs from which you intend to link to our
               Website, and a list of the URLs on our site to which you would
@@ -233,7 +233,7 @@ export default function TermsAndConditions() {
               </li>
             </ul>
             <p>
-              No use of Softnix&apos;s logo or other artwork will be allowed for
+              No use of Royallix&apos;s logo or other artwork will be allowed for
               linking absent a trademark license agreement.
             </p>
           </Section>

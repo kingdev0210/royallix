@@ -117,7 +117,7 @@ export default function ServicePage() {
                 <img
                   className="mb-3"
                   decoding="async"
-                  src="https://softnix.co/wp-content/uploads/2018/08/royal-2995_51c8d05c-efe9-46d9-9a17-4b4e8fccfaad.svg"
+                  src="/imgs/royal-2995_51c8d05c-efe9-46d9-9a17-4b4e8fccfaad.svg"
                   alt="Years experience"
                 />
               </div>
@@ -134,7 +134,7 @@ export default function ServicePage() {
                 <img
                   className="mb-3"
                   decoding="async"
-                  src="https://softnix.co/wp-content/uploads/2018/09/diploma-2983_a6bb0b64-dbc1-431e-ac00-a83597982a0.svg"
+                  src="/imgs/diploma-2983_a6bb0b64-dbc1-431e-ac00-a83597982a0.svg"
                   alt="Certified experts"
                 />
               </div>
@@ -150,7 +150,7 @@ export default function ServicePage() {
                 <img
                   className="mb-3"
                   decoding="async"
-                  src="https://softnix.co/wp-content/uploads/2018/08/user-group-2874_87351201-7b45-463a-9b86-0ebd80aa8fa0.svg"
+                  src="/imgs/user-group-2874_87351201-7b45-463a-9b86-0ebd80aa8fa0.svg"
                   alt="Satisfaction guaranteed"
                 />
               </div>
@@ -169,7 +169,7 @@ export default function ServicePage() {
                 <img
                   className="mb-3"
                   decoding="async"
-                  src="https://softnix.co/wp-content/uploads/2018/09/world-map-826_e5eaf722-e834-484a-b7a6-0b1f4ab98ee.svg"
+                  src="/imgs/world-map-826_e5eaf722-e834-484a-b7a6-0b1f4ab98ee.svg"
                   alt="Global reach"
                 />
               </div>
@@ -186,7 +186,7 @@ export default function ServicePage() {
                 <img
                   className="mb-3"
                   decoding="async"
-                  src="https://softnix.co/wp-content/uploads/2018/09/headphones-user-5252_ca8ffcdb-4e36-4baa-8e93-4fb725476d7.svg"
+                  src="/imgs/headphones-user-5252_ca8ffcdb-4e36-4baa-8e93-4fb725476d7.svg"
                   alt="Service desk"
                 />
               </div>
@@ -275,7 +275,7 @@ export default function ServicePage() {
                   <div className="mb-[30px] text-center px-[75px] relative">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/05/integrity-icon.svg"
+                      src="/imgs/integrity-icon.svg"
                       alt="integrity-icon"
                     />
                   </div>
@@ -295,7 +295,7 @@ export default function ServicePage() {
                   <div className="mb-[30px] text-center px-[75px] relative">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/05/innovation-icon.svg"
+                      src="/imgs/innovation-icon.svg"
                       alt="innovation-icon"
                     />
                   </div>
@@ -315,7 +315,7 @@ export default function ServicePage() {
                   <div className="mb-[30px] text-center px-[75px] relative">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/05/focus-icon.svg"
+                      src="/imgs/focus-icon.svg"
                       alt="focus-icon"
                     />
                   </div>
@@ -376,7 +376,7 @@ export default function ServicePage() {
         <div className="w-1/2 px-[17.5px]">
           <img
             decoding="async"
-            src="https://softnix.co/wp-content/uploads/2024/05/shopify-development-small.jpg"
+            src="/imgs/shopify-development-small.jpg"
             width={1170}
             height={700}
             loading="lazy"
@@ -409,7 +409,7 @@ export default function ServicePage() {
                   <a href="#">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/08/Time-Maxx-Header-Image-800x450.jpg"
+                      src="/imgs/Time-Maxx-Header-Image-800x450.jpg"
                       width={220}
                       className="mt-[10px]"
                       alt="Time Maxx Header"
@@ -423,7 +423,7 @@ export default function ServicePage() {
                   <div className="flex justify-center">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/08/Time-Maxx-Logo.png"
+                      src="/imgs/Time-Maxx-Logo.png"
                       className="order-1 mt-[50px] mb-[25px] h-20"
                     />
                   </div>
@@ -448,7 +448,7 @@ export default function ServicePage() {
                   <a href="#">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/10/Pumps-Industrial-Equipment-800x450.jpg"
+                      src="/imgs/Pumps-Industrial-Equipment-800x450.jpg"
                       width={220}
                       className="mt-[10px]"
                       alt="Time Maxx Header"
@@ -462,7 +462,7 @@ export default function ServicePage() {
                   <div className="flex justify-center">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/10/herrpump-logo-1.png"
+                      src="/imgs/herrpump-logo-1.png"
                       className="order-1 mt-[50px] mb-[25px] h-20"
                     />
                   </div>
@@ -487,7 +487,7 @@ export default function ServicePage() {
                   <a href="#">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2018/08/k-75-chim-t-091548-800x450.jpg"
+                      src="/imgs/k-75-chim-t-091548-800x450.jpg"
                       width={220}
                       className="mt-[10px]"
                       alt="Time Maxx Header"
@@ -501,7 +501,7 @@ export default function ServicePage() {
                   <div className="flex justify-center">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/the-ace-group-logo.png"
+                      src="/imgs/the-ace-group-logo.png"
                       className="order-1 mt-[50px] mb-[25px] h-12"
                     />
                   </div>

@@ -31,7 +31,7 @@ const services: ServiceBlock[] = [
   {
     title: "Website Development",
     description:
-      "Softnix's website development services deliver responsive, user-friendly websites personalized to your business needs. Our custom solutions improve your online presence, enhance user engagement, and boost conversions, helping you to effectively reach and expand your target audience.",
+      "Royallix's website development services deliver responsive, user-friendly websites personalized to your business needs. Our custom solutions improve your online presence, enhance user engagement, and boost conversions, helping you to effectively reach and expand your target audience.",
     image: "/imgs/02.jpg",
     imageAlt: "Website Development",
     links: [
@@ -220,7 +220,7 @@ export default function ServicesPage() {
             Our Services
           </h1>
           <p className="mb-10 max-w-[820px] text-[16px] font-normal leading-[1.7] text-white md:text-[18px]">
-            At Softnix, we deliver complete digital transformation solutions
+            At Royallix, we deliver complete digital transformation solutions
             that help businesses go paperless, enhance productivity, and grow
             sustainably. From custom software and mobile apps to digital
             marketing and DevOps, our services are built to give you a smarter,

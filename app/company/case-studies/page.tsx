@@ -20,7 +20,7 @@ export default function CaseStudies() {
                 <a href="#">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2024/08/Time-Maxx-Header-Image-800x450.jpg"
+                    src="/imgs/Time-Maxx-Header-Image-800x450.jpg"
                     width={230}
                     className="mt-[10px]"
                     alt="Time Maxx Header"
@@ -34,7 +34,7 @@ export default function CaseStudies() {
                 <div className="flex justify-center">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2024/08/Time-Maxx-Logo.png"
+                    src="/imgs/Time-Maxx-Logo.png"
                     className="order-1 mt-[50px] mb-[25px] h-20"
                   />
                 </div>
@@ -59,7 +59,7 @@ export default function CaseStudies() {
                 <a href="#">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2024/10/Pumps-Industrial-Equipment-800x450.jpg"
+                    src="/imgs/Pumps-Industrial-Equipment-800x450.jpg"
                     width={230}
                     className="mt-[10px]"
                     alt="Time Maxx Header"
@@ -73,7 +73,7 @@ export default function CaseStudies() {
                 <div className="flex justify-center">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2024/10/herrpump-logo-1.png"
+                    src="/imgs/herrpump-logo-1.png"
                     className="order-1 mt-[50px] mb-[25px] h-20"
                   />
                 </div>
@@ -98,7 +98,7 @@ export default function CaseStudies() {
                 <a href="#">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2018/08/k-75-chim-t-091548-800x450.jpg"
+                    src="/imgs/k-75-chim-t-091548-800x450.jpg"
                     width={230}
                     className="mt-[10px]"
                     alt="Time Maxx Header"
@@ -112,7 +112,7 @@ export default function CaseStudies() {
                 <div className="flex justify-center">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2024/03/the-ace-group-logo.png"
+                    src="/imgs/the-ace-group-logo.png"
                     className="order-1 mt-[50px] mb-[25px] h-12"
                   />
                 </div>
@@ -139,7 +139,7 @@ export default function CaseStudies() {
                 <a href="#">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2018/08/deals-on-cases-cover-scaled-800x400.jpg"
+                    src="/imgs/deals-on-cases-cover-scaled-800x400.jpg"
                     width={230}
                     className="mt-[10px]"
                     alt="Deals On Cases"
@@ -153,7 +153,7 @@ export default function CaseStudies() {
                 <div className="flex justify-center">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2018/08/DealsonCases-Logo.png"
+                    src="/imgs/DealsonCases-Logo.png"
                     className="order-1 my-[50px] h-12"
                   />
                 </div>
@@ -178,7 +178,7 @@ export default function CaseStudies() {
                 <a href="#">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2018/08/atlast-dollar-deals-header-800x400.jpg"
+                    src="/imgs/atlast-dollar-deals-header-800x400.jpg"
                     width={230}
                     className="mt-[10px]"
                     alt="Atlas Dollar Deals"
@@ -192,7 +192,7 @@ export default function CaseStudies() {
                 <div className="flex justify-center">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2018/08/AtalasDollarDeals-Logo.png"
+                    src="/imgs/AtalasDollarDeals-Logo.png"
                     className="order-1 my-[50px] h-12"
                   />
                 </div>
@@ -217,7 +217,7 @@ export default function CaseStudies() {
                 <a href="#">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2018/08/fusion-hardwares-cover-scaled-800x400.jpg"
+                    src="/imgs/fusion-hardwares-cover-scaled-800x400.jpg"
                     width={230}
                     className="mt-[10px]"
                     alt="Fusion Hardwares"
@@ -231,7 +231,7 @@ export default function CaseStudies() {
                 <div className="flex justify-center">
                   <img
                     decoding="async"
-                    src="https://softnix.co/wp-content/uploads/2018/08/fusionhardwares-logo.png"
+                    src="/imgs/fusionhardwares-logo.png"
                     className="order-1 mt-[50px] mb-[25px] h-10"
                   />
                 </div>

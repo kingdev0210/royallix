@@ -55,7 +55,7 @@ export function Industries() {
                   <div className="flex justify-center order-1 mb-[30px] h-auto">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/Entertainment-Icon.svg"
+                      src="/imgs/Entertainment-Icon.svg"
                       width={64}
                       alt="Entertainment"
                     />
@@ -94,7 +94,7 @@ export function Industries() {
                   <div className="flex justify-center order-1 mb-[30px] h-auto">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/Enterprise-Icon.svg"
+                      src="/imgs/Enterprise-Icon.svg"
                       width={64}
                       alt="Enterprises"
                     />
@@ -133,7 +133,7 @@ export function Industries() {
                   <div className="flex justify-center order-1 mb-[30px] h-auto">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/E-Learning-Icon.svg"
+                      src="/imgs/E-Learning-Icon.svg"
                       width={64}
                       alt="E-Learning"
                     />
@@ -172,7 +172,7 @@ export function Industries() {
                   <div className="flex justify-center order-1 mb-[30px] h-auto">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/Healthcare-Icon.svg"
+                      src="/imgs/Healthcare-Icon.svg"
                       width={64}
                       alt="Healthcare"
                     />
@@ -211,7 +211,7 @@ export function Industries() {
                   <div className="flex justify-center order-1 mb-[30px] h-auto">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/Banking-Icon.svg"
+                      src="/imgs/Banking-Icon.svg"
                       width={64}
                       alt="Fintech"
                     />
@@ -279,7 +279,7 @@ export function Industries() {
                         loading="lazy"
                         decoding="async"
                         className="relative z-[3] opacity-30 grayscale rounded"
-                        src="https://softnix.co/wp-content/uploads/2024/08/Time-Maxx-Header-Image-800x450.jpg"
+                        src="/imgs/Time-Maxx-Header-Image-800x450.jpg"
                         width="800"
                         height="450"
                         alt="Time Maxx Header"
@@ -298,7 +298,7 @@ export function Industries() {
                       <img
                         className="mt-[20px] h-[70px]"
                         decoding="async"
-                        src="https://softnix.co/wp-content/uploads/2024/08/Time-Maxx-Logo.png"
+                        src="/imgs/Time-Maxx-Logo.png"
                         title="Time Maxx Stores"
                       />
                     </div>
@@ -320,7 +320,7 @@ export function Industries() {
                         loading="lazy"
                         decoding="async"
                         className="relative z-[3] opacity-30 grayscale rounded"
-                        src="https://softnix.co/wp-content/uploads/2024/10/Pumps-Industrial-Equipment-800x450.jpg"
+                        src="/imgs/Pumps-Industrial-Equipment-800x450.jpg"
                         width="800"
                         height="450"
                         alt="Pumps-Industrial-Equipment"
@@ -339,7 +339,7 @@ export function Industries() {
                       <img
                         className="mt-[20px] h-[70px]"
                         decoding="async"
-                        src="https://softnix.co/wp-content/uploads/2024/10/herrpump-logo-1.png"
+                        src="/imgs/herrpump-logo-1.png"
                         title="Herr Pump"
                       />
                     </div>
@@ -361,7 +361,7 @@ export function Industries() {
                         loading="lazy"
                         decoding="async"
                         className="relative z-[3] opacity-30 grayscale rounded"
-                        src="https://softnix.co/wp-content/uploads/2018/08/k-75-chim-t-091548-800x450.jpg"
+                        src="/imgs/k-75-chim-t-091548-800x450.jpg"
                         width="800"
                         height="450"
                         alt="k-75-chim-t-091548"
@@ -380,7 +380,7 @@ export function Industries() {
                       <img
                         className="mt-[20px] h-[32px]"
                         decoding="async"
-                        src="https://softnix.co/wp-content/uploads/2024/03/the-ace-group-logo.png"
+                        src="/imgs/the-ace-group-logo.png"
                         title="The Ace Group"
                       />
                     </div>

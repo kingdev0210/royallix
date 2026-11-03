@@ -41,7 +41,7 @@ export function OurServices() {
                     <img
                       className="absolute h-full bottom-0 left-1/2 translate-x-[-50%] transition-transform duration-[350ms] ease-[cubic-bezier(0.12,0.845,0.305,1)]"
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/Website-Development-Icon.svg"
+                      src="/imgs/Website-Development-Icon.svg"
                       alt="Website Development"
                     />
                   </div>
@@ -76,7 +76,7 @@ export function OurServices() {
                     <img
                       className="absolute h-full bottom-0 left-1/2 translate-x-[-50%] transition-transform duration-[350ms] ease-[cubic-bezier(0.12,0.845,0.305,1)]"
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/App-Development-Icon.svg"
+                      src="/imgs/App-Development-Icon.svg"
                       alt="Mobile App Development"
                     />
                   </div>
@@ -111,7 +111,7 @@ export function OurServices() {
                     <img
                       className="absolute h-full bottom-0 left-1/2 translate-x-[-50%] transition-transform duration-[350ms] ease-[cubic-bezier(0.12,0.845,0.305,1)]"
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/Brand-Desing-Icon.svg"
+                      src="/imgs/Brand-Desing-Icon.svg"
                       alt="SaaS Development"
                     />
                   </div>
@@ -150,7 +150,7 @@ export function OurServices() {
                     <img
                       className="absolute h-full bottom-0 left-1/2 translate-x-[-50%] transition-transform duration-[350ms] ease-[cubic-bezier(0.12,0.845,0.305,1)]"
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/Digital-Marketing-Icon.svg"
+                      src="/imgs/Digital-Marketing-Icon.svg"
                       alt="Digital Marketing Services"
                     />
                   </div>
@@ -185,7 +185,7 @@ export function OurServices() {
                     <img
                       className="absolute h-full bottom-0 left-1/2 translate-x-[-50%] transition-transform duration-[350ms] ease-[cubic-bezier(0.12,0.845,0.305,1)]"
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/UI-UX-Design-Icon.svg"
+                      src="/imgs/UI-UX-Design-Icon.svg"
                       alt="UI &amp; UX Design Services"
                     />
                   </div>
@@ -220,7 +220,7 @@ export function OurServices() {
                     <img
                       className="absolute h-full bottom-0 left-1/2 translate-x-[-50%] transition-transform duration-[350ms] ease-[cubic-bezier(0.12,0.845,0.305,1)]"
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/03/Custom-Software-Icon.png"
+                      src="/imgs/Custom-Software-Icon.png"
                       alt="Custom Softwares"
                     />
                   </div>
@@ -283,7 +283,7 @@ export function OurServices() {
                       decoding="async"
                       width="246"
                       height="92"
-                      src="https://softnix.co/wp-content/uploads/2024/03/FusionHardwares-Gray-Logo.png"
+                      src="/imgs/FusionHardwares-Gray-Logo.png"
                       className="h-auto max-w-full align-top"
                       alt=""
                       title="FusionHardwares-Gray-Logo"
@@ -305,7 +305,7 @@ export function OurServices() {
                       decoding="async"
                       width="246"
                       height="92"
-                      src="https://softnix.co/wp-content/uploads/2024/03/DealsOnCases-Gray-Logo.png"
+                      src="/imgs/DealsOnCases-Gray-Logo.png"
                       className="h-auto max-w-full align-top"
                       alt=""
                       title="DealsOnCases-Gray-Logo"
@@ -327,7 +327,7 @@ export function OurServices() {
                       decoding="async"
                       width="246"
                       height="92"
-                      src="https://softnix.co/wp-content/uploads/2024/03/MarkhorDeals-Gray-Logo.png"
+                      src="/imgs/MarkhorDeals-Gray-Logo.png"
                       className="h-auto max-w-full align-top"
                       alt=""
                       title="MarkhorDeals-Gray-Logo"
@@ -349,7 +349,7 @@ export function OurServices() {
                       decoding="async"
                       width="246"
                       height="92"
-                      src="https://softnix.co/wp-content/uploads/2024/03/TheAceGroup-Gray-Logo.png"
+                      src="/imgs/TheAceGroup-Gray-Logo.png"
                       className="h-auto max-w-full align-top"
                       alt=""
                       title="TheAceGroup-Gray-Logo"
@@ -371,7 +371,7 @@ export function OurServices() {
                       decoding="async"
                       width="246"
                       height="92"
-                      src="https://softnix.co/wp-content/uploads/2024/03/AtlastDollarDeals-Gray-Logo.png"
+                      src="/imgs/AtlastDollarDeals-Gray-Logo.png"
                       className="h-auto max-w-full align-top"
                       alt=""
                       title="AtlastDollarDeals-Gray-Logo"
@@ -393,7 +393,7 @@ export function OurServices() {
                       decoding="async"
                       width="246"
                       height="92"
-                      src="https://softnix.co/wp-content/uploads/2024/03/HTownWireless-Gray-Logo.png"
+                      src="/imgs/HTownWireless-Gray-Logo.png"
                       className="h-auto max-w-full align-top"
                       alt=""
                       title="HTownWireless-Gray-Logo"

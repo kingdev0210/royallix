@@ -198,7 +198,7 @@ export default function ContactUs() {
                   />
                   <span>
                     By checking this box, I Opt-in to receive the messages from
-                    Softnix.
+                    Royallix.
                   </span>
                 </label>
                 {errors.optIn ? (

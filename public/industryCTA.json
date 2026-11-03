@@ -8,14 +8,14 @@
     },
     "overview": {
       "title": "Revolutionizing Future with Digital Financial Services",
-      "content": "At Softnix, we're all about pushing the boundaries of what fintech can do for you. It's not just about coding some apps or designing a website; it's about crafting a digital financial experience that stands out. Our team specializes in a spectrum of fintech services, from developing interactive fintech apps that prioritize security and user experience to designing captivating investment platforms on Shopify.",
+      "content": "At Royallix, we're all about pushing the boundaries of what fintech can do for you. It's not just about coding some apps or designing a website; it's about crafting a digital financial experience that stands out. Our team specializes in a spectrum of fintech services, from developing interactive fintech apps that prioritize security and user experience to designing captivating investment platforms on Shopify.",
       "li11": "Fintech Branding Services:",
       "li12": "Embedding values and mission into every design and communication.",
       "li21": "Custom Fintech Application Development:",
       "li22": "We build fintech applications that are not only secure but are designed with the end-user in mind, enhancing engagement and trust.",
       "li31": "Strategic Investment Platform Design:",
       "li32": "With our Shopify expertise, we craft investment platforms that stand out for their ease of use and design, attracting and retaining users.",
-      "footer": "Softnix is dedicated to providing fintech solutions that not only meet the current industry standards but set new benchmarks for innovation and user engagement."
+      "footer": "Royallix is dedicated to providing fintech solutions that not only meet the current industry standards but set new benchmarks for innovation and user engagement."
     },
     "services": {
       "title": "Fin-Tech Solutions across Industries",
@@ -25,32 +25,32 @@
         {
           "title": "Website Development",
           "content": "Creating secure, scalable, and user-friendly Fin-Tech websites for optimal user interaction.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Website-Development-Icon.svg"
+          "icon": "/imgs/Website-Development-Icon.svg"
         },
         {
           "title": "App Development",
           "content": "Developing intuitive, robust mobile apps to streamline financial services and customer access.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/App-Development-Icon.svg"
+          "icon": "/imgs/App-Development-Icon.svg"
         },
         {
           "title": "SaaS Development",
           "content": "Building scalable, cloud-based Fin-Tech solutions to innovate financial services and management.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Custom-Software-Icon.png"
+          "icon": "/imgs/Custom-Software-Icon.png"
         },
         {
           "title": "UI/UX Services",
           "content": "Designing seamless, user-centric Fin-Tech interfaces for enhanced user satisfaction and retention.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/UI-UX-Design-Icon.svg"
+          "icon": "/imgs/UI-UX-Design-Icon.svg"
         },
         {
           "title": "Digital Marketing",
           "content": "Tailored strategies boosting Fin-Tech visibility, engagement, and conversion across digital channels.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Digital-Marketing-Icon.svg"
+          "icon": "/imgs/Digital-Marketing-Icon.svg"
         },
         {
           "title": "Branding Services",
           "content": "Establishing strong Fin-Tech brands through strategic positioning, identity design, and messaging.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Brand-Desing-Icon.svg"
+          "icon": "/imgs/Brand-Desing-Icon.svg"
         }
       ]
     },
@@ -67,8 +67,8 @@
     },
     "expertise": {
       "title": "Let's Work Together!",
-      "content": "As a full-service digital agency, Softnix has empowered businesses by delivering comprehensive Fin-Tech services, from developing innovative platforms to executing targeted digital marketing strategies. Their expertise has enabled clients to enhance efficiency, reach wider audiences, and achieve significant growth.",
-      "img": "https://softnix.co/wp-content/uploads/2024/05/shopify-development-small.jpg",
+      "content": "As a full-service digital agency, Royallix has empowered businesses by delivering comprehensive Fin-Tech services, from developing innovative platforms to executing targeted digital marketing strategies. Their expertise has enabled clients to enhance efficiency, reach wider audiences, and achieve significant growth.",
+      "img": "/imgs/shopify-development-small.jpg",
       "stat1": "300",
       "stat1Suffix": "+",
       "stat1Label": "Projects Successfully Completed.",
@@ -77,20 +77,20 @@
       "stat2Label": "Satisfaction Rate Achieved and Growing."
     },
     "reviews": {
-      "quote": "Softnix transformed our online presence. As a fintech website development company, they delivered a site that's both beautiful and functional.",
+      "quote": "Royallix transformed our online presence. As a fintech website development company, they delivered a site that's both beautiful and functional.",
       "author": "James Cooper"
     },
     "faqs": [
       {
-        "question": "What Fin-Tech services does Softnix offer?",
-        "answer": "Softnix delivers end-to-end Fin-Tech solutions including website and app development, SaaS platforms, UI/UX design, digital marketing, and branding tailored for financial services."
+        "question": "What Fin-Tech services does Royallix offer?",
+        "answer": "Royallix delivers end-to-end Fin-Tech solutions including website and app development, SaaS platforms, UI/UX design, digital marketing, and branding tailored for financial services."
       },
       {
-        "question": "How does Softnix approach security in Fin-Tech projects?",
+        "question": "How does Royallix approach security in Fin-Tech projects?",
         "answer": "Security is built into every stage—from architecture and development to testing and launch—so your platforms stay compliant, reliable, and trustworthy for users."
       },
       {
-        "question": "Can Softnix modernize an existing Fin-Tech product?",
+        "question": "Can Royallix modernize an existing Fin-Tech product?",
         "answer": "Yes. We assess your current stack, identify gaps, and upgrade design, performance, and functionality while minimizing disruption to your operations."
       },
       {
@@ -108,14 +108,14 @@
     },
     "overview": {
       "title": "Leading the Enterprise Industry with Superior Digital Solutions",
-      "content": "Softnix is dedicated to revolutionizing the enterprise sector through a suite of digital services designed to address the unique challenges and opportunities businesses face today. From crafting memorable branding services that resonate with your audience to developing bespoke enterprise applications that streamline operations, Softnix stands at the intersection of innovation and functionality. Our website development team ensures your digital presence is robust and engaging, while our expertise in SaaS platform creation offers scalable solutions for businesses looking to leverage cloud technologies.",
+      "content": "Royallix is dedicated to revolutionizing the enterprise sector through a suite of digital services designed to address the unique challenges and opportunities businesses face today. From crafting memorable branding services that resonate with your audience to developing bespoke enterprise applications that streamline operations, Royallix stands at the intersection of innovation and functionality. Our website development team ensures your digital presence is robust and engaging, while our expertise in SaaS platform creation offers scalable solutions for businesses looking to leverage cloud technologies.",
       "li11": "Bespoke Enterprise App Development:",
       "li12": "Creating custom solutions that drive efficiency and innovation within your business operations.",
       "li21": "Strategic Digital Marketing:",
       "li22": "Elevating your brand's digital presence with targeted strategies that increase engagement and ROI.",
       "li31": "Intuitive UI/UX Design:",
       "li32": "Enhancing user experience with designs that are not only visually appealing but also user-friendly and accessible.",
-      "footer": "Additionally, Softnix's digital marketing strategies are devised to enhance your visibility and engagement."
+      "footer": "Additionally, Royallix's digital marketing strategies are devised to enhance your visibility and engagement."
     },
     "services": {
       "title": "Enterprise Solutions across Industries",
@@ -125,32 +125,32 @@
         {
           "title": "Website Development",
           "content": "Creating secure, scalable, and user-friendly Enterprise websites for optimal user interaction.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Website-Development-Icon.svg"
+          "icon": "/imgs/Website-Development-Icon.svg"
         },
         {
           "title": "App Development",
           "content": "Developing intuitive, robust mobile apps to streamline enterprise operations and customer access.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/App-Development-Icon.svg"
+          "icon": "/imgs/App-Development-Icon.svg"
         },
         {
           "title": "SaaS Development",
           "content": "Building scalable, cloud-based Enterprise solutions to innovate business services and management.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Custom-Software-Icon.png"
+          "icon": "/imgs/Custom-Software-Icon.png"
         },
         {
           "title": "UI/UX Services",
           "content": "Designing seamless, user-centric Enterprise interfaces for enhanced user satisfaction and retention.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/UI-UX-Design-Icon.svg"
+          "icon": "/imgs/UI-UX-Design-Icon.svg"
         },
         {
           "title": "Digital Marketing",
           "content": "Tailored strategies boosting Enterprise visibility, engagement, and conversion across digital channels.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Digital-Marketing-Icon.svg"
+          "icon": "/imgs/Digital-Marketing-Icon.svg"
         },
         {
           "title": "Branding Services",
           "content": "Establishing strong Enterprise brands through strategic positioning, identity design, and messaging.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Brand-Desing-Icon.svg"
+          "icon": "/imgs/Brand-Desing-Icon.svg"
         }
       ]
     },
@@ -167,7 +167,7 @@
     },
     "expertise": {
       "title": "Let's Work Together!",
-      "content": "As a full-service digital agency, Softnix has empowered businesses in the Enterprise Industry by delivering comprehensive digital solutions. From innovative app development to strategic digital marketing, Softnix enhances operational efficiency, drives growth, and strengthens the online presence of enterprises globally.",
+      "content": "As a full-service digital agency, Royallix has empowered businesses in the Enterprise Industry by delivering comprehensive digital solutions. From innovative app development to strategic digital marketing, Royallix enhances operational efficiency, drives growth, and strengthens the online presence of enterprises globally.",
       "img": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1200&q=80",
       "stat1": "300",
       "stat1Suffix": "+",
@@ -177,7 +177,7 @@
       "stat2Label": "Satisfaction Rate Achieved and Growing."
     },
     "reviews": {
-      "quote": "Softnix's branding services gave our enterprise a new lease on life. Visually stunning and strategically sound, they've outdone themselves.",
+      "quote": "Royallix's branding services gave our enterprise a new lease on life. Visually stunning and strategically sound, they've outdone themselves.",
       "author": "Jonathan Grey"
     },
     "faqs": []
@@ -191,14 +191,14 @@
     },
     "overview": {
       "title": "Bridging Healthcare Gaps with Advanced Digital Solutions",
-      "content": "Softnix's Healthcare industry services encompass a range of specialized offerings designed to enhance the digital presence and operational efficiency of healthcare organizations. With a focus on branding services, healthcare app development, website development, SaaS platform creation, digital marketing, and UI/UX design, Softnix delivers personalized solutions to meet the unique needs of healthcare providers. Our branding services ensure that healthcare organizations establish a distinctive identity that resonates with their target audience. Our healthcare app development and website development solutions empower organizations to leverage technology for improved patient care and operational effectiveness. Additionally, our expertise in SaaS platform creation enables healthcare providers to streamline their processes and enhance collaboration.",
+      "content": "Royallix's Healthcare industry services encompass a range of specialized offerings designed to enhance the digital presence and operational efficiency of healthcare organizations. With a focus on branding services, healthcare app development, website development, SaaS platform creation, digital marketing, and UI/UX design, Royallix delivers personalized solutions to meet the unique needs of healthcare providers. Our branding services ensure that healthcare organizations establish a distinctive identity that resonates with their target audience. Our healthcare app development and website development solutions empower organizations to leverage technology for improved patient care and operational effectiveness. Additionally, our expertise in SaaS platform creation enables healthcare providers to streamline their processes and enhance collaboration.",
       "li11": "",
       "li12": "Innovative UI/UX design for enhanced patient engagement and satisfaction.",
       "li21": "",
       "li22": "Comprehensive digital marketing strategies tailored for the healthcare industry.",
       "li31": "",
       "li32": "Expertise in SaaS platform creation to streamline healthcare operations and facilitate collaboration.",
-      "footer": "Softnix boosts online visibility and engages patients through digital marketing prioritizing intuitive UI/UX for satisfaction."
+      "footer": "Royallix boosts online visibility and engages patients through digital marketing prioritizing intuitive UI/UX for satisfaction."
     },
     "services": {
       "title": "Healthcare Solutions across Industries",
@@ -208,32 +208,32 @@
         {
           "title": "Website Development",
           "content": "Creating secure, scalable, and user-friendly Healthcare websites for optimal patient interaction.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Website-Development-Icon.svg"
+          "icon": "/imgs/Website-Development-Icon.svg"
         },
         {
           "title": "App Development",
           "content": "Developing intuitive, robust mobile apps to streamline healthcare services and patient access.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/App-Development-Icon.svg"
+          "icon": "/imgs/App-Development-Icon.svg"
         },
         {
           "title": "SaaS Development",
           "content": "Building scalable, cloud-based Healthcare solutions to innovate care delivery and management.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Custom-Software-Icon.png"
+          "icon": "/imgs/Custom-Software-Icon.png"
         },
         {
           "title": "UI/UX Services",
           "content": "Designing seamless, user-centric Healthcare interfaces for enhanced patient satisfaction and retention.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/UI-UX-Design-Icon.svg"
+          "icon": "/imgs/UI-UX-Design-Icon.svg"
         },
         {
           "title": "Digital Marketing",
           "content": "Tailored strategies boosting Healthcare visibility, engagement, and conversion across digital channels.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Digital-Marketing-Icon.svg"
+          "icon": "/imgs/Digital-Marketing-Icon.svg"
         },
         {
           "title": "Branding Services",
           "content": "Establishing strong Healthcare brands through strategic positioning, identity design, and messaging.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Brand-Desing-Icon.svg"
+          "icon": "/imgs/Brand-Desing-Icon.svg"
         }
       ]
     },
@@ -244,13 +244,13 @@
       "subtitle2": "Strategy",
       "subcontent2": "Our team crafts a comprehensive digital strategy that aligns with your healthcare objectives, focusing on improving patient care, and operational efficiency, and ensuring compliance with healthcare regulations.",
       "subtitle3": "Implementation",
-      "subcontent3": "Softnix seamlessly implements the planned digital services, including app development, website creation, and SaaS solutions, ensuring they integrate smoothly with your existing healthcare infrastructure.",
+      "subcontent3": "Royallix seamlessly implements the planned digital services, including app development, website creation, and SaaS solutions, ensuring they integrate smoothly with your existing healthcare infrastructure.",
       "subtitle4": "Optimization",
       "subcontent4": "Post-launch, we continuously monitor, analyze, and refine our digital solutions based on user feedback and performance data to maximize their impact and efficiency in the healthcare sector."
     },
     "expertise": {
       "title": "Let's Work Together!",
-      "content": "Softnix, a full-service digital agency, empowers businesses in the healthcare industry with tailored digital services. From branding to app development, we enhance online presence, streamline operations, and elevate patient engagement for impactful results.",
+      "content": "Royallix, a full-service digital agency, empowers businesses in the healthcare industry with tailored digital services. From branding to app development, we enhance online presence, streamline operations, and elevate patient engagement for impactful results.",
       "img": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&w=1200&q=80",
       "stat1": "300",
       "stat1Suffix": "+",
@@ -260,7 +260,7 @@
       "stat2Label": "Satisfaction Rate Achieved and Growing."
     },
     "reviews": {
-      "quote": "Softnix's SaaS platform creation optimized our pharmacy's operations, increasing productivity. Their digital marketing strategies effectively targeted our desired audience, driving growth.",
+      "quote": "Royallix's SaaS platform creation optimized our pharmacy's operations, increasing productivity. Their digital marketing strategies effectively targeted our desired audience, driving growth.",
       "author": "Amanda White"
     },
     "faqs": []
@@ -274,7 +274,7 @@
     },
     "overview": {
       "title": "Empowering Educators, Inspiring Learners with Digital Services",
-      "content": "Softnix is on a mission to revolutionize the e-learning landscape. Our e-learning services are designed to break down the barriers to education, making learning accessible, engaging, and effective for everyone, everywhere. With a keen focus on e-learning branding services, we ensure your educational content stands out in a crowded market. Our interactive learning app design and e-learning website development are all about creating user-friendly, immersive experiences that keep learners hooked.",
+      "content": "Royallix is on a mission to revolutionize the e-learning landscape. Our e-learning services are designed to break down the barriers to education, making learning accessible, engaging, and effective for everyone, everywhere. With a keen focus on e-learning branding services, we ensure your educational content stands out in a crowded market. Our interactive learning app design and e-learning website development are all about creating user-friendly, immersive experiences that keep learners hooked.",
       "li11": "Cutting-Edge SaaS Solutions for E-Learning:",
       "li12": "Our SaaS platforms are robust, scalable, and ready to support your growth, no matter the size.",
       "li21": "Strategic Brand and Marketing Support:",
@@ -291,32 +291,32 @@
         {
           "title": "Website Development",
           "content": "Creating engaging, interactive E-Learning websites for optimal student learning and user interaction.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Website-Development-Icon.svg"
+          "icon": "/imgs/Website-Development-Icon.svg"
         },
         {
           "title": "App Development",
           "content": "Developing intuitive, robust mobile apps to streamline learning experiences and learner access.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/App-Development-Icon.svg"
+          "icon": "/imgs/App-Development-Icon.svg"
         },
         {
           "title": "SaaS Development",
           "content": "Building scalable, cloud-based E-Learning solutions to innovate education delivery and management.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Custom-Software-Icon.png"
+          "icon": "/imgs/Custom-Software-Icon.png"
         },
         {
           "title": "UI/UX Services",
           "content": "Designing seamless, user-centric E-Learning interfaces for enhanced learner satisfaction and retention.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/UI-UX-Design-Icon.svg"
+          "icon": "/imgs/UI-UX-Design-Icon.svg"
         },
         {
           "title": "Digital Marketing",
           "content": "Tailored strategies boosting E-Learning visibility, engagement, and conversion across digital channels.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Digital-Marketing-Icon.svg"
+          "icon": "/imgs/Digital-Marketing-Icon.svg"
         },
         {
           "title": "Branding Services",
           "content": "Establishing strong E-Learning brands through strategic positioning, identity design, and messaging.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Brand-Desing-Icon.svg"
+          "icon": "/imgs/Brand-Desing-Icon.svg"
         }
       ]
     },
@@ -327,13 +327,13 @@
       "subtitle2": "Design",
       "subcontent2": "Our team crafts a strategic design for your e-learning platform, focusing on user engagement and educational effectiveness, ensuring it's visually appealing and functionally seamless.",
       "subtitle3": "Development",
-      "subcontent3": "Softnix developers bring the design to life with robust coding, integrating interactive features and scalable technology to create a comprehensive e-learning environment.",
+      "subcontent3": "Royallix developers bring the design to life with robust coding, integrating interactive features and scalable technology to create a comprehensive e-learning environment.",
       "subtitle4": "Launch",
       "subcontent4": "After rigorous testing and final tweaks, we launch your e-learning platform, followed by continuous support and analytics monitoring to ensure smooth operation and user satisfaction."
     },
     "expertise": {
       "title": "Let's Work Together!",
-      "content": "Softnix, a full-service digital agency, has assisted businesses with our premium e-learning services. With expertise in interactive learning app design and e-learning website development, we've empowered companies to strengthen their educational platforms and achieve digital success for your E-learning platform.",
+      "content": "Royallix, a full-service digital agency, has assisted businesses with our premium e-learning services. With expertise in interactive learning app design and e-learning website development, we've empowered companies to strengthen their educational platforms and achieve digital success for your E-learning platform.",
       "img": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=80",
       "stat1": "300",
       "stat1Suffix": "+",
@@ -343,7 +343,7 @@
       "stat2Label": "Satisfaction Rate Achieved and Growing."
     },
     "reviews": {
-      "quote": "Softnix transformed our e-learning presence with stellar branding services. Their approach to design and marketing truly sets them apart.",
+      "quote": "Royallix transformed our e-learning presence with stellar branding services. Their approach to design and marketing truly sets them apart.",
       "author": "James Patterson"
     },
     "faqs": []
@@ -357,7 +357,7 @@
     },
     "overview": {
       "title": "Innovative Digital Services Reshaping the Entertainment Industry",
-      "content": "Softnix is a full-service agency transforming the entertainment industry with our digital services, offering innovative solutions that cater specifically to the dynamic needs of this sector. From crafting a distinctive entertainment business branding strategy that resonates with your audience to developing custom entertainment app solutions that keep users engaged, Softnix is dedicated to enhancing the digital presence of entertainment entities. Our expertise in entertainment website development ensures a captivating online experience, while our foray into entertainment industry software development and streaming platform SaaS solutions brings cutting-edge technology to your fingertips.",
+      "content": "Royallix is a full-service agency transforming the entertainment industry with our digital services, offering innovative solutions that cater specifically to the dynamic needs of this sector. From crafting a distinctive entertainment business branding strategy that resonates with your audience to developing custom entertainment app solutions that keep users engaged, Royallix is dedicated to enhancing the digital presence of entertainment entities. Our expertise in entertainment website development ensures a captivating online experience, while our foray into entertainment industry software development and streaming platform SaaS solutions brings cutting-edge technology to your fingertips.",
       "li11": "Customized Entertainment Solutions:",
       "li12": "Delivering personalized app, website, and software solutions for the entertainment industry.",
       "li21": "Streaming Platform Expertise:",
@@ -374,32 +374,32 @@
         {
           "title": "Website Development",
           "content": "Creating secure, scalable, and user-friendly Entertainment websites for optimal audience interaction.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Website-Development-Icon.svg"
+          "icon": "/imgs/Website-Development-Icon.svg"
         },
         {
           "title": "App Development",
           "content": "Developing intuitive, robust mobile apps to streamline entertainment services and audience access.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/App-Development-Icon.svg"
+          "icon": "/imgs/App-Development-Icon.svg"
         },
         {
           "title": "SaaS Development",
           "content": "Building scalable, cloud-based Entertainment solutions to innovate streaming and content management.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Custom-Software-Icon.png"
+          "icon": "/imgs/Custom-Software-Icon.png"
         },
         {
           "title": "UI/UX Services",
           "content": "Designing seamless, user-centric Entertainment interfaces for enhanced audience satisfaction and retention.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/UI-UX-Design-Icon.svg"
+          "icon": "/imgs/UI-UX-Design-Icon.svg"
         },
         {
           "title": "Digital Marketing",
           "content": "Tailored strategies boosting Entertainment visibility, engagement, and conversion across digital channels.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Digital-Marketing-Icon.svg"
+          "icon": "/imgs/Digital-Marketing-Icon.svg"
         },
         {
           "title": "Branding Services",
           "content": "Establishing strong Entertainment brands through strategic positioning, identity design, and messaging.",
-          "icon": "https://softnix.co/wp-content/uploads/2024/03/Brand-Desing-Icon.svg"
+          "icon": "/imgs/Brand-Desing-Icon.svg"
         }
       ]
     },
@@ -416,7 +416,7 @@
     },
     "expertise": {
       "title": "Let's Work Together!",
-      "content": "As a full-service digital agency, Softnix has revolutionized the entertainment industry by offering bespoke digital services that enhance creativity, engagement, and operational efficiency. From immersive app development to strategic digital marketing, Softnix empowers brands to captivate and connect with their audience like never before.",
+      "content": "As a full-service digital agency, Royallix has revolutionized the entertainment industry by offering bespoke digital services that enhance creativity, engagement, and operational efficiency. From immersive app development to strategic digital marketing, Royallix empowers brands to captivate and connect with their audience like never before.",
       "img": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?auto=format&fit=crop&w=1200&q=80",
       "stat1": "300",
       "stat1Suffix": "+",
@@ -426,7 +426,7 @@
       "stat2Label": "Satisfaction Rate Achieved and Growing."
     },
     "reviews": {
-      "quote": "Softnix elevated our brand with an outstanding entertainment business branding strategy. Truly a game-changer for our online presence.",
+      "quote": "Royallix elevated our brand with an outstanding entertainment business branding strategy. Truly a game-changer for our online presence.",
       "author": "Michael Anderson"
     },
     "faqs": []

@@ -10,9 +10,9 @@ const cultureItems = [
 ];
 
 const commitmentItems = [
-  "Softnix is your trusted proactive technology partner, delivering tailored solutions for success",
-  "Softnix empathizes with fellow business owners, understanding their day-to-day digital needs.",
-  "Softnix serves as your reliable built-in development partner, always available when you need assistance.",
+  "Royallix is your trusted proactive technology partner, delivering tailored solutions for success",
+  "Royallix empathizes with fellow business owners, understanding their day-to-day digital needs.",
+  "Royallix serves as your reliable built-in development partner, always available when you need assistance.",
 ];
 
 const valueCards = [
@@ -130,10 +130,10 @@ export default function MissionVisionValuesPage() {
         <div className="mx-auto w-[1398px] max-w-[calc(90%+30px)] px-4 py-24 text-center md:py-32">
           <FadeIn>
             <h1 className="mb-6 text-[2.5rem] font-semibold text-white md:text-[3.25rem]">
-              Softnix&apos;s Mission
+              Royallix&apos;s Mission
             </h1>
             <p className="mx-auto mb-10 max-w-[760px] text-[16px] font-light leading-[1.75] text-white md:text-[18px]">
-              Softnix is on a mission to drive global digital transformation –
+              Royallix is on a mission to drive global digital transformation –
               creating custom, SaaS, and mobile solutions that empower businesses
               to go paperless, work smarter, and grow sustainably.
             </p>
@@ -244,7 +244,7 @@ export default function MissionVisionValuesPage() {
             </FadeIn>
             <FadeIn delay={0.08}>
               <p className="text-[15px] leading-[1.8] text-[#4a5568] md:text-base">
-                At Softnix, our values guide everything we do. We believe in
+                At Royallix, our values guide everything we do. We believe in
                 efficiency, creating solutions that simplify work and save time.
                 We are committed to sustainability, reducing paper waste and
                 supporting a greener future. With accessibility at the heart of

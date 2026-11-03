@@ -116,7 +116,7 @@ export default function Footer() {
                     className="mr-2 h-6 w-6"
                   />
                   By checking this box, I Opt-in to receive the messages from
-                  Softnix.
+                  Royallix.
                 </label>
                 <p className="mt-2 text-sm text-[#7d91ae]">
                   Please read our{" "}
@@ -151,7 +151,7 @@ export default function Footer() {
               <Link href="/">
                 <img
                   src="/imgs/icon-logo.png"
-                  alt="Softnix"
+                  alt="Royallix"
                   width="120"
                   height="120"
                   className="h-auto max-w-full rounded-lg"
@@ -165,10 +165,10 @@ export default function Footer() {
               Sugar Land, Texas, 77478
             </address>
             <a
-              href="mailto:info@softnix.co"
+              href="mailto:info@royallix.co"
               className="mb-5 block text-[14px] text-[#2f6fed] transition-colors hover:text-[#e6332c]"
             >
-              info@softnix.co
+              info@royallix.co
             </a>
             <div className="flex items-center gap-3.5 text-[#a8b3c4]" aria-hidden="true">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
@@ -215,7 +215,7 @@ export default function Footer() {
 
         <div className="mx-auto mt-14 w-[1398px] max-w-[calc(90%+30px)] border-t border-[#e5e7eb] px-[15px] py-8">
           <p className="text-center text-[14px] text-[#627792]">
-            Copyright © 2026 Softnix.
+            Copyright © 2026 Royallix.
           </p>
         </div>
       </div>

@@ -7,22 +7,22 @@ const pillars = [
   {
     title: "People",
     text: "We carefully hire individuals who are not only smart and passionate but also deeply aligned with our values, bringing dedication and new ideas to implement.",
-    icon: "https://softnix.co/wp-content/uploads/2024/03/Brand-Desing-Icon.svg",
+    icon: "/imgs/Brand-Desing-Icon.svg",
   },
   {
     title: "Customer Service",
     text: "We believe in delivering more than expected and ensuring clients feel confident in their decision to work with us through our expertise and results.",
-    icon: "https://softnix.co/wp-content/uploads/2024/03/App-Development-Icon.svg",
+    icon: "/imgs/App-Development-Icon.svg",
   },
   {
     title: "Support",
     text: "Our team goes the extra mile, using their experience to fulfill your development needs with attention and efficiency for your business growth.",
-    icon: "https://softnix.co/wp-content/uploads/2024/03/UI-UX-Design-Icon.svg",
+    icon: "/imgs/UI-UX-Design-Icon.svg",
   },
   {
     title: "Quality",
     text: "Our goal is to do more than meet expectations, we provide development solutions that improve your business and strengthen its digital presence.",
-    icon: "https://softnix.co/wp-content/uploads/2024/03/Custom-Software-Icon.png",
+    icon: "/imgs/Custom-Software-Icon.png",
   },
 ];
 
@@ -31,27 +31,27 @@ const caseStudies = [
     name: "Time Maxx Stores",
     color: "#d93925",
     buttonColor: "#b82e1d",
-    logo: "https://softnix.co/wp-content/uploads/2024/08/Time-Maxx-Logo.png",
+    logo: "/imgs/Time-Maxx-Logo.png",
     image:
-      "https://softnix.co/wp-content/uploads/2024/08/Time-Maxx-Header-Image-800x450.jpg",
+      "/imgs/Time-Maxx-Header-Image-800x450.jpg",
     overview: "Overview Time Maxx Stores is a convenience retail br",
   },
   {
     name: "Herr Pump",
     color: "#f37421",
     buttonColor: "#d96212",
-    logo: "https://softnix.co/wp-content/uploads/2024/10/herrpump-logo-1.png",
+    logo: "/imgs/herrpump-logo-1.png",
     image:
-      "https://softnix.co/wp-content/uploads/2024/10/Pumps-Industrial-Equipment-800x450.jpg",
+      "/imgs/Pumps-Industrial-Equipment-800x450.jpg",
     overview: "Overview Herr Pump is a renowned provider of industr",
   },
   {
     name: "The Ace Group",
     color: "#001844",
     buttonColor: "#001028",
-    logo: "https://softnix.co/wp-content/uploads/2024/03/the-ace-group-logo.png",
+    logo: "/imgs/the-ace-group-logo.png",
     image:
-      "https://softnix.co/wp-content/uploads/2018/08/k-75-chim-t-091548-800x450.jpg",
+      "/imgs/k-75-chim-t-091548-800x450.jpg",
     overview: "Overview The Ace Group is a reputable insurance prov",
   },
 ];
@@ -69,10 +69,10 @@ export default function WhyChooseUsPage() {
         <div className="mx-auto w-[1398px] max-w-[calc(90%+30px)] px-4 py-24 text-center md:py-32">
           <FadeIn>
             <h1 className="mb-6 text-[2.5rem] font-semibold text-white md:text-[3.25rem]">
-              Why Softnix?
+              Why Royallix?
             </h1>
             <p className="mx-auto mb-10 max-w-[700px] text-[16px] font-light leading-[1.75] text-white md:text-[18px]">
-              Trust Softnix for innovative development solutions that ensure
+              Trust Royallix for innovative development solutions that ensure
               reliability, boost efficiency, and foster business growth.
             </p>
             <Link
@@ -91,23 +91,23 @@ export default function WhyChooseUsPage() {
             <FadeIn>
               <img
                 src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1000&q=80"
-                alt="Softnix team"
+                alt="Royallix team"
                 className="h-auto w-full rounded-[12px] object-cover"
               />
             </FadeIn>
             <FadeIn delay={0.1}>
               <h2 className="mb-6 text-[1.75rem] font-semibold leading-[1.3] text-[#001528] md:text-[2.25rem]">
-                Why Choose Softnix for Development Services?
+                Why Choose Royallix for Development Services?
               </h2>
               <p className="mb-5 text-[15px] leading-[1.75] text-[#4a5568] md:text-base">
-                When you work with Softnix, you get more than just development
+                When you work with Royallix, you get more than just development
                 services. We are here to build websites and apps that not only
                 look good but work smoothly. We pay attention to every detail so
                 your business can connect with customers and grow, ensuring a
                 profitable development process that sets you apart.
               </p>
               <p className="text-[15px] leading-[1.75] text-[#4a5568] md:text-base">
-                With Softnix, you can trust that your development needs are in
+                With Royallix, you can trust that your development needs are in
                 capable hands. We are focused on delivering results that help
                 your business grow and stay ready for the future. Let&apos;s work
                 together to create new opportunities and take your business
@@ -143,7 +143,7 @@ export default function WhyChooseUsPage() {
           <FadeIn>
             <div className="mb-10 flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
               <h2 className="max-w-[640px] text-[1.75rem] font-semibold leading-[1.3] text-[#001528] md:text-[2.25rem]">
-                Find out how companies succeed with Softnix
+                Find out how companies succeed with Royallix
               </h2>
               <Link
                 href="/company/case-studies"

@@ -4,7 +4,7 @@ export function DiscoverNow() {
       className="z-[2] bg-bottom bg-blend-multiply pt-[20px] pb-[60px] bg-no-repeat bg-contain"
       style={{
         backgroundImage:
-          "url('https://softnix.co/wp-content/uploads/2018/08/bg-team.jpg?id=831')",
+          "url('/imgs/bg-team.jpg')",
       }}
     >
       <div>
@@ -24,7 +24,7 @@ export function DiscoverNow() {
                             <img
                               className="w-full h-auto block"
                               decoding="async"
-                              src="https://softnix.co/wp-content/uploads/2018/04/map-1.svg"
+                              src="/imgs/map-1.svg"
                             />
                           </div>
                           <div className="absolute top-[22.35%] left-[9.84%] min-w-[1px] min-h-[1px] cursor-pointer">
@@ -36,13 +36,13 @@ export function DiscoverNow() {
                               <div className="pins_animation ihotspot_pulse"></div>
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1.svg"
+                                src="/imgs/004-user-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px]"
                                 alt=""
                               />
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1-1.svg"
+                                src="/imgs/004-user-1-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px] hidden"
                                 alt=""
                               />
@@ -57,13 +57,13 @@ export function DiscoverNow() {
                               <div className="pins_animation ihotspot_pulse"></div>
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1.svg"
+                                src="/imgs/004-user-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px]"
                                 alt=""
                               />
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1-1.svg"
+                                src="/imgs/004-user-1-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px] hidden"
                                 alt=""
                               />
@@ -80,13 +80,13 @@ export function DiscoverNow() {
                               <div className="pins_animation ihotspot_pulse"></div>
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/m1.png"
+                                src="/imgs/m1.png"
                                 className="top-[-15px] left-[-15px] max-w-[30px]"
                                 alt=""
                               />
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/m1.png"
+                                src="/imgs/m1.png"
                                 className="top-[-15px] left-[-15px] max-w-[30px] hidden"
                                 alt=""
                               />
@@ -103,13 +103,13 @@ export function DiscoverNow() {
                               <div className="pins_animation ihotspot_pulse"></div>
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/m3.png"
+                                src="/imgs/m3.png"
                                 className="top-[-15px] left-[-15px] max-w-[30px]"
                                 alt=""
                               />
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/m3.png"
+                                src="/imgs/m3.png"
                                 className="top-[-15px] left-[-15px] max-w-[30px] hidden"
                                 alt=""
                               />
@@ -126,13 +126,13 @@ export function DiscoverNow() {
                               <div className="pins_animation ihotspot_pulse"></div>
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/m2.png"
+                                src="/imgs/m2.png"
                                 className="top-[-15px] left-[-15px] max-w-[30px]"
                                 alt=""
                               />
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/m2.png"
+                                src="/imgs/m2.png"
                                 className="top-[-15px] left-[-15px] max-w-[30px] hidden"
                                 alt=""
                               />
@@ -149,13 +149,13 @@ export function DiscoverNow() {
                               <div className="pins_animation ihotspot_pulse"></div>
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/m4.png"
+                                src="/imgs/m4.png"
                                 className="top-[-15px] left-[-15px] max-w-[30px]"
                                 alt=""
                               />
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/m4.png"
+                                src="/imgs/m4.png"
                                 className="top-[-15px] left-[-15px] max-w-[30px] hidden"
                                 alt=""
                               />
@@ -170,13 +170,13 @@ export function DiscoverNow() {
                               <div className="pins_animation ihotspot_pulse"></div>
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1.svg"
+                                src="/imgs/004-user-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px]"
                                 alt=""
                               />
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1-1.svg"
+                                src="/imgs/004-user-1-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px] hidden"
                                 alt=""
                               />
@@ -193,13 +193,13 @@ export function DiscoverNow() {
                               <div className="pins_animation ihotspot_pulse"></div>
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1.svg"
+                                src="/imgs/004-user-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px]"
                                 alt=""
                               />
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1-1.svg"
+                                src="/imgs/004-user-1-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px] hidden"
                                 alt=""
                               />
@@ -214,13 +214,13 @@ export function DiscoverNow() {
                               <div className="pins_animation ihotspot_pulse"></div>
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1.svg"
+                                src="/imgs/004-user-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px]"
                                 alt=""
                               />
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1-1.svg"
+                                src="/imgs/004-user-1-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px] hidden"
                                 alt=""
                               />
@@ -235,13 +235,13 @@ export function DiscoverNow() {
                               <div className="pins_animation ihotspot_pulse"></div>
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1.svg"
+                                src="/imgs/004-user-1.svg"
                                 className="top-[-15px] left-[-15px] max-w-[30px]"
                                 alt=""
                               />
                               <img
                                 decoding="async"
-                                src="https://softnix.co/wp-content/uploads/2018/09/004-user-1-1.svg"
+                                src="/imgs/004-user-1-1.svg"
                                 className="pins_image_hover top-[-15px] left-[-15px] max-w-[30px] hidden"
                                 alt=""
                               />
@@ -267,7 +267,7 @@ export function DiscoverNow() {
                                 decoding="async"
                                 width="768"
                                 height="830"
-                                src="https://softnix.co/wp-content/uploads/2024/03/clutch-badge.png"
+                                src="/imgs/clutch-badge.png"
                                 className="w-[150px]"
                                 alt="clutch-badge"
                                 title="clutch-badge"
@@ -283,7 +283,7 @@ export function DiscoverNow() {
                                 decoding="async"
                                 width="768"
                                 height="830"
-                                src="https://softnix.co/wp-content/uploads/2024/03/badge-top-software-developers-2023.png"
+                                src="/imgs/badge-top-software-developers-2023.png"
                                 className="w-[150px]"
                                 alt="badge-top-software-developers-2023"
                                 title="badge-top-software-developers-2023"
@@ -299,7 +299,7 @@ export function DiscoverNow() {
                                 decoding="async"
                                 width="768"
                                 height="830"
-                                src="https://softnix.co/wp-content/uploads/2024/03/badge-flag-black-light-xl.svg"
+                                src="/imgs/badge-flag-black-light-xl.svg"
                                 className="w-[150px]"
                                 alt="badge-flag-black-light-xl"
                                 title="badge-flag-black-light-xl"
@@ -315,10 +315,10 @@ export function DiscoverNow() {
                                 decoding="async"
                                 width="768"
                                 height="830"
-                                src="https://softnix.co/wp-content/uploads/2024/09/Top-Software-Development-Companies-DesignRush-Softnix.png"
+                                src="/imgs/Top-Software-Development-Companies-DesignRush-Royallix.png"
                                 className="w-[150px]"
-                                alt="Top Software Development Companies - DesignRush - Softnix"
-                                title="Top Software Development Companies - DesignRush - Softnix"
+                                alt="Top Software Development Companies - DesignRush - Royallix"
+                                title="Top Software Development Companies - DesignRush - Royallix"
                               />
                             </a>
                           </div>
@@ -331,10 +331,10 @@ export function DiscoverNow() {
                                 decoding="async"
                                 width="768"
                                 height="830"
-                                src="https://softnix.co/wp-content/uploads/2024/09/Top-Mobile-App-Development-Companies-Goodfirms-Softnix.png"
+                                src="/imgs/Top-Mobile-App-Development-Companies-Goodfirms-Royallix.png"
                                 className="w-[150px]"
-                                alt="Top Mobile App Development Companies - Techimply - Softnix"
-                                title="Top Mobile App Development Companies - Techimply - Softnix"
+                                alt="Top Mobile App Development Companies - Techimply - Royallix"
+                                title="Top Mobile App Development Companies - Techimply - Royallix"
                               />
                             </a>
                           </div>
@@ -347,10 +347,10 @@ export function DiscoverNow() {
                                 decoding="async"
                                 width="768"
                                 height="830"
-                                src="https://softnix.co/wp-content/uploads/2024/09/Top-Mobile-App-Development-Companies-Techimply-Softnix.png"
+                                src="/imgs/Top-Mobile-App-Development-Companies-Techimply-Royallix.png"
                                 className="w-[150px]"
-                                alt="Top Mobile App Development Companies - Techimply - Softnix"
-                                title="Top Mobile App Development Companies - Techimply - Softnix"
+                                alt="Top Mobile App Development Companies - Techimply - Royallix"
+                                title="Top Mobile App Development Companies - Techimply - Royallix"
                               />
                             </a>
                           </div>
@@ -363,10 +363,10 @@ export function DiscoverNow() {
                                 decoding="async"
                                 width="768"
                                 height="830"
-                                src="https://softnix.co/wp-content/uploads/2024/09/Top-Web-Development-Companies-Goodfirms-Softnix.png"
+                                src="/imgs/Top-Web-Development-Companies-Goodfirms-Royallix.png"
                                 className="w-[150px]"
-                                alt="Top Web Development Companies - Goodfirms - Softnix"
-                                title="Top Web Development Companies - Goodfirms - Softnix"
+                                alt="Top Web Development Companies - Goodfirms - Royallix"
+                                title="Top Web Development Companies - Goodfirms - Royallix"
                               />
                             </a>
                           </div>
@@ -379,10 +379,10 @@ export function DiscoverNow() {
                                 decoding="async"
                                 width="768"
                                 height="830"
-                                src="https://softnix.co/wp-content/uploads/2024/09/Top-Software-Development-Companies-Goodfirms-Softnix.png"
+                                src="/imgs/Top-Software-Development-Companies-Goodfirms-Royallix.png"
                                 className="w-[150px]"
-                                alt="Top Software Development Companies - Goodfirms - Softnix"
-                                title="Top Software Development Companies - Goodfirms - Softnix"
+                                alt="Top Software Development Companies - Goodfirms - Royallix"
+                                title="Top Software Development Companies - Goodfirms - Royallix"
                               />
                             </a>
                           </div>
@@ -395,10 +395,10 @@ export function DiscoverNow() {
                                 decoding="async"
                                 width="768"
                                 height="830"
-                                src="https://softnix.co/wp-content/uploads/2024/09/Top-Mobile-App-Development-Companies-Superbcompanies-Softnix.png"
+                                src="/imgs/Top-Mobile-App-Development-Companies-Superbcompanies-Royallix.png"
                                 className="w-[150px]"
-                                alt="Top Mobile App Development Companies - Superbcompanies - Softnix"
-                                title="Top Mobile App Development Companies - Superbcompanies - Softnix"
+                                alt="Top Mobile App Development Companies - Superbcompanies - Royallix"
+                                title="Top Mobile App Development Companies - Superbcompanies - Royallix"
                               />
                             </a>
                           </div>

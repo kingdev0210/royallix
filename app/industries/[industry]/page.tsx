@@ -9,37 +9,37 @@ import { HeroIntro } from "../../components/HeroIntro";
 import { FadeIn } from "../../components/FadeIn";
 
 const defaultServiceIcons = [
-  "https://softnix.co/wp-content/uploads/2024/03/Website-Development-Icon.svg",
-  "https://softnix.co/wp-content/uploads/2024/03/App-Development-Icon.svg",
-  "https://softnix.co/wp-content/uploads/2024/03/Custom-Software-Icon.png",
-  "https://softnix.co/wp-content/uploads/2024/03/UI-UX-Design-Icon.svg",
-  "https://softnix.co/wp-content/uploads/2024/03/Digital-Marketing-Icon.svg",
-  "https://softnix.co/wp-content/uploads/2024/03/Brand-Desing-Icon.svg",
+  "/imgs/Website-Development-Icon.svg",
+  "/imgs/App-Development-Icon.svg",
+  "/imgs/Custom-Software-Icon.png",
+  "/imgs/UI-UX-Design-Icon.svg",
+  "/imgs/Digital-Marketing-Icon.svg",
+  "/imgs/Brand-Desing-Icon.svg",
 ];
 
 const caseStudies = [
   {
     name: "Time Maxx Stores",
     color: "#d93925",
-    logo: "https://softnix.co/wp-content/uploads/2024/08/Time-Maxx-Logo.png",
+    logo: "/imgs/Time-Maxx-Logo.png",
     image:
-      "https://softnix.co/wp-content/uploads/2024/08/Time-Maxx-Header-Image-800x450.jpg",
+      "/imgs/Time-Maxx-Header-Image-800x450.jpg",
     overview: "Overview Time Maxx Stores is a convenience retail br",
   },
   {
     name: "Herr Pump",
     color: "#f37421",
-    logo: "https://softnix.co/wp-content/uploads/2024/10/herrpump-logo-1.png",
+    logo: "/imgs/herrpump-logo-1.png",
     image:
-      "https://softnix.co/wp-content/uploads/2024/10/Pumps-Industrial-Equipment-800x450.jpg",
+      "/imgs/Pumps-Industrial-Equipment-800x450.jpg",
     overview: "Overview Herr Pump is a renowned provider of industr",
   },
   {
     name: "The Ace Group",
     color: "#001844",
-    logo: "https://softnix.co/wp-content/uploads/2024/03/the-ace-group-logo.png",
+    logo: "/imgs/the-ace-group-logo.png",
     image:
-      "https://softnix.co/wp-content/uploads/2018/08/k-75-chim-t-091548-800x450.jpg",
+      "/imgs/k-75-chim-t-091548-800x450.jpg",
     overview: "Overview The Ace Group is a reputable insurance prov",
   },
 ];
@@ -65,7 +65,7 @@ export default function IndustryPage() {
   const expertise = industryData["expertise"] || {
     title: "Let's Work Together!",
     content: services.content,
-    img: "https://softnix.co/wp-content/uploads/2024/05/shopify-development-small.jpg",
+    img: "/imgs/shopify-development-small.jpg",
     stat1: "300",
     stat1Suffix: "+",
     stat1Label: "Projects Successfully Completed.",
@@ -75,7 +75,7 @@ export default function IndustryPage() {
   };
   const reviews = industryData["reviews"] || {
     quote:
-      "Softnix transformed our online presence with expert digital solutions that are both beautiful and functional.",
+      "Royallix transformed our online presence with expert digital solutions that are both beautiful and functional.",
     author: "James Cooper",
   };
 
@@ -276,7 +276,7 @@ export default function IndustryPage() {
                   <div className="relative mb-[30px] px-[75px] text-center">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/05/integrity-icon.svg"
+                      src="/imgs/integrity-icon.svg"
                       alt="integrity-icon"
                     />
                   </div>
@@ -296,7 +296,7 @@ export default function IndustryPage() {
                   <div className="relative mb-[30px] px-[75px] text-center">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/05/innovation-icon.svg"
+                      src="/imgs/innovation-icon.svg"
                       alt="innovation-icon"
                     />
                   </div>
@@ -316,7 +316,7 @@ export default function IndustryPage() {
                   <div className="relative mb-[30px] px-[75px] text-center">
                     <img
                       decoding="async"
-                      src="https://softnix.co/wp-content/uploads/2024/05/focus-icon.svg"
+                      src="/imgs/focus-icon.svg"
                       alt="focus-icon"
                     />
                   </div>

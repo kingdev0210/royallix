@@ -218,13 +218,13 @@ export function Navbar() {
         <Link href="/" className="flex shrink-0 items-center gap-2.5">
           <Image
             src="/imgs/icon-logo.png"
-            alt="Softnix"
+            alt="Royallix"
             width={42}
             height={42}
             className="h-[42px] w-auto"
           />
-          <span className="text-[22px] font-bold lowercase leading-none tracking-tight text-[#1a1a1a]">
-            softnix
+          <span className="text-[22px] font-bold leading-none tracking-tight text-[#1a1a1a]">
+            Royallix
           </span>
         </Link>
 
@@ -254,11 +254,11 @@ export function Navbar() {
         </nav>
 
         <a
-          href="mailto:info@softnix.co"
+          href="mailto:info@royallix.co"
           className="flex shrink-0 items-center gap-3"
         >
           <img
-            src="https://softnix.co/wp-content/uploads/2018/08/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg"
+            src="/imgs/conversations-4872_af60b258-251e-41af-b238-dfb706d7b3d4.svg"
             className="h-9 w-9 border-none"
             alt=""
           />
@@ -267,7 +267,7 @@ export function Navbar() {
               Have any questions?
             </div>
             <div className="text-[14px] font-bold text-[#e6332c]">
-              info@softnix.co
+              info@royallix.co
             </div>
           </div>
         </a>

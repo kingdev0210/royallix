@@ -78,7 +78,7 @@ const history = [
     dates: "2014 - 2022",
     title: "The Beginning of an Idea:",
     paragraphs: [
-      "The story of Softnix is one of vision, persistence, and purpose. It began in 2014 with three minds – one skilled in design, another in software development, and a third with entrepreneurial drive. Our conversations always circled back to the same question: How can technology solve everyday business challenges and replace inefficiencies with smarter solutions?",
+      "The story of Royallix is one of vision, persistence, and purpose. It began in 2014 with three minds – one skilled in design, another in software development, and a third with entrepreneurial drive. Our conversations always circled back to the same question: How can technology solve everyday business challenges and replace inefficiencies with smarter solutions?",
       "For Years, we worked independently, sharpening our skills while nurturing the idea of building something meaningful – a company that would not only serve businesses but also shape a more sustainable future.",
     ],
   },
@@ -86,17 +86,17 @@ const history = [
     dates: "2023 - 2024",
     title: "Turning Vision Into Reality:",
     paragraphs: [
-      "In 2023, that vision took shape in Sugar Land, Texas, when Softnix was officially founded. Though new to the scene, the mission was clear from the start: help businesses reduce dependency on paper, adopt smarter workflows, and embrace digital transformation.",
-      "During this phase, Softnix focused on tailored development solutions – building websites, SaaS platforms, and mobile applications that addressed real-world inefficiencies. Each project reinforced our belief that businesses need more than technology; they need a partner in transformation.",
+      "In 2023, that vision took shape in Sugar Land, Texas, when Royallix was officially founded. Though new to the scene, the mission was clear from the start: help businesses reduce dependency on paper, adopt smarter workflows, and embrace digital transformation.",
+      "During this phase, Royallix focused on tailored development solutions – building websites, SaaS platforms, and mobile applications that addressed real-world inefficiencies. Each project reinforced our belief that businesses need more than technology; they need a partner in transformation.",
     ],
   },
   {
     dates: "2024 - Ongoing",
     title: "A Brand with Purpose:",
     paragraphs: [
-      "Today, Softnix stands as more than just a technology company – it's a movement towards paperless, efficient, and sustainable digital workspace. With services spanning custom digital solutions, SaaS-based platforms, mobile apps, and workflow automation, Softnix empowers businesses to thrive in an ever-changing digital world.",
+      "Today, Royallix stands as more than just a technology company – it's a movement towards paperless, efficient, and sustainable digital workspace. With services spanning custom digital solutions, SaaS-based platforms, mobile apps, and workflow automation, Royallix empowers businesses to thrive in an ever-changing digital world.",
       "Our mission goes beyond delivering software. We aim to drive digital transformation globally, reduce waste through paperless solutions, and help businesses work smarter, anywhere.",
-      "Softnix is not just a reflection of entrepreneurial spirit – it's a promise: to innovate with purpose, assist with dedication, and build a greener, more efficient tomorrow.",
+      "Royallix is not just a reflection of entrepreneurial spirit – it's a promise: to innovate with purpose, assist with dedication, and build a greener, more efficient tomorrow.",
     ],
   },
 ];
@@ -119,12 +119,12 @@ export default function AboutPage() {
         <div className="relative mx-auto w-[1398px] max-w-[calc(90%+30px)] px-4 py-24 text-center md:py-32">
           <FadeIn>
             <h1 className="mb-6 text-[2.5rem] font-semibold text-white md:text-[3.25rem]">
-              About Softnix
+              About Royallix
             </h1>
             <p className="mx-auto mb-10 max-w-[760px] text-[16px] font-light leading-[1.75] text-white md:text-[18px]">
-              At Softnix, we believe the future of work is digital, sustainable,
+              At Royallix, we believe the future of work is digital, sustainable,
               and accessible from anywhere. Born with a mission to eliminate the
-              inefficiencies of paperwork, Softnix transforms traditional
+              inefficiencies of paperwork, Royallix transforms traditional
               paper-driven processes into smart, secure, and eco-friendly digital
               solutions.
             </p>
@@ -145,7 +145,7 @@ export default function AboutPage() {
               <div className="overflow-hidden rounded-[8px]">
                 <img
                   src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=900&q=80"
-                  alt="About Softnix team"
+                  alt="About Royallix team"
                   className="h-full min-h-[320px] w-full object-cover md:min-h-[480px]"
                 />
               </div>
@@ -153,14 +153,14 @@ export default function AboutPage() {
                 <div className="overflow-hidden rounded-[8px]">
                   <img
                     src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=900&q=80"
-                    alt="Softnix collaboration"
+                    alt="Royallix collaboration"
                     className="h-full min-h-[180px] w-full object-cover"
                   />
                 </div>
                 <div className="overflow-hidden rounded-[8px]">
                   <img
                     src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=900&q=80"
-                    alt="Softnix team"
+                    alt="Royallix team"
                     className="h-full min-h-[180px] w-full object-cover"
                   />
                 </div>
@@ -212,7 +212,7 @@ export default function AboutPage() {
             <article className="flex h-full flex-col rounded-[8px] bg-white p-8 shadow-[0_10px_40px_rgba(0,22,40,0.08)]">
               <div className="mb-5 flex justify-center">
                 <img
-                  src="https://softnix.co/wp-content/uploads/2024/03/Website-Development-Icon.svg"
+                  src="/imgs/Website-Development-Icon.svg"
                   alt=""
                   className="h-14 w-14 object-contain"
                 />
@@ -249,7 +249,7 @@ export default function AboutPage() {
             <article className="flex h-full flex-col rounded-[8px] bg-white p-8 shadow-[0_10px_40px_rgba(0,22,40,0.08)]">
               <div className="mb-5 flex justify-center">
                 <img
-                  src="https://softnix.co/wp-content/uploads/2024/03/Digital-Marketing-Icon.svg"
+                  src="/imgs/Digital-Marketing-Icon.svg"
                   alt=""
                   className="h-14 w-14 object-contain"
                 />
@@ -258,7 +258,7 @@ export default function AboutPage() {
                 Who We Assist?
               </h3>
               <p className="mb-5 text-[15px] leading-relaxed text-[#4a5568]">
-                At Softnix, our purpose is simple: to help organizations of all
+                At Royallix, our purpose is simple: to help organizations of all
                 sizes break free from paper dependency and embrace a smarter,
                 digital future. We design solutions that fit the unique needs of
                 every business — whether you&apos;re a small startup looking for
@@ -295,7 +295,7 @@ export default function AboutPage() {
             <article className="flex h-full flex-col rounded-[8px] bg-white p-8 shadow-[0_10px_40px_rgba(0,22,40,0.08)]">
               <div className="mb-5 flex justify-center">
                 <img
-                  src="https://softnix.co/wp-content/uploads/2024/03/Brand-Desing-Icon.svg"
+                  src="/imgs/Brand-Desing-Icon.svg"
                   alt=""
                   className="h-14 w-14 object-contain"
                 />
@@ -304,7 +304,7 @@ export default function AboutPage() {
                 Why Choose Us?
               </h3>
               <p className="mb-5 text-[15px] leading-relaxed text-[#4a5568]">
-                Choosing Softnix means choosing a partner who believes the future
+                Choosing Royallix means choosing a partner who believes the future
                 of business is paperless, smarter, and sustainable. Our vision is
                 to empower every organization to work anywhere, anytime — without
                 the limitations of paper.
@@ -321,7 +321,7 @@ export default function AboutPage() {
                 ))}
               </ul>
               <p className="mb-8 text-[15px] leading-relaxed text-[#4a5568]">
-                At Softnix, we don&apos;t just deliver software — we help build a
+                At Royallix, we don&apos;t just deliver software — we help build a
                 future-ready workplace where efficiency, sustainability, and
                 innovation go hand in hand.
               </p>
