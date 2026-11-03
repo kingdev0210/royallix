@@ -223,9 +223,9 @@ export function Navbar() {
             height={42}
             className="h-[42px] w-auto"
           />
-          <span className="text-[22px] font-bold leading-none tracking-tight text-[#1a1a1a]">
+          {/* <span className="text-[22px] font-bold leading-none tracking-tight text-[#1a1a1a]">
             Royallix
-          </span>
+          </span> */}
         </Link>
 
         <nav className="flex h-full flex-1 items-center justify-center">
