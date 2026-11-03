@@ -1,4 +1,3 @@
-import Head from "next/head";
 import "./global.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import type { Metadata } from "next";
@@ -37,6 +36,11 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  icons: {
+    icon: [{ url: "/imgs/favicon.png", type: "image/png" }],
+    shortcut: "/imgs/favicon.png",
+    apple: "/imgs/favicon.png",
+  },
 };
 
 const cx = (...classes: string[]) => classes.filter(Boolean).join(" ");
@@ -56,14 +60,6 @@ export default function RootLayout({
       )}
     >
       <body className="antialiased">
-        <Head>
-          <link
-            rel="icon"
-            href="/imgs/icon-logo.png"
-            sizes="32x32"
-            type="image/png"
-          />
-        </Head>
         <LoadingBar />
         <main>
           <Navbar />
