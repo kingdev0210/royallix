@@ -215,17 +215,17 @@ export function Navbar() {
       className={`sticky top-0 z-50 bg-white shadow-[0_8px_28px_rgba(0,22,40,0.12)] ${montserrat.className}`}
     >
       <div className="mx-auto flex h-[78px] w-full max-w-[calc(90%+30px)] items-center justify-between gap-6">
-        <Link href="/" className="flex shrink-0 items-center gap-2.5">
+        <Link href="/" className="flex shrink-0 items-center">
           <Image
             src="/imgs/icon-logo.png"
             alt="Royallix"
-            width={42}
-            height={42}
-            className="h-[42px] w-auto"
+            width={630}
+            height={210}
+            quality={100}
+            priority
+            sizes="480px"
+            className="h-[52px] w-auto"
           />
-          {/* <span className="text-[22px] font-bold leading-none tracking-tight text-[#1a1a1a]">
-            Royallix
-          </span> */}
         </Link>
 
         <nav className="flex h-full flex-1 items-center justify-center">

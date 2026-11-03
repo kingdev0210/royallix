@@ -147,14 +147,14 @@ export default function Footer() {
       <div className="bg-white px-4 pt-20">
         <div className="mx-auto flex w-[1398px] max-w-[calc(90%+30px)] flex-wrap">
           <div className="mb-10 w-full px-[15px] md:mb-0 md:w-[28%] lg:w-[26%]">
-            <div className="mb-5 w-[70px]">
+            <div className="mb-5 w-[180px]">
               <Link href="/">
                 <img
                   src="/imgs/icon-logo.png"
                   alt="Royallix"
-                  width="120"
-                  height="120"
-                  className="h-auto max-w-full rounded-lg"
+                  width={540}
+                  height={180}
+                  className="h-auto w-full"
                   loading="lazy"
                 />
               </Link>
