@@ -1,0 +1,40 @@
+{
+  "responsive": [
+    {
+      "id": 1,
+      "imageUrl": "/imgs/bg1.jpg",
+      "layout": "staggered",
+      "lines": ["Go Paperless", "Work Smarter", "Anywhere"],
+      "subtitle": "with Softnix Digital Solutions",
+      "cta": "LET'S DISCUSS YOUR PROJECT",
+      "ctaHref": "/support/contact-us",
+      "ctaAlign": "center"
+    },
+    {
+      "id": 2,
+      "imageUrl": "/imgs/bg2.jpg",
+      "layout": "centered",
+      "eyebrow": "From Paperwork to Digital Success",
+      "title": "Your Partner in Transformation",
+      "subtitle": "Let us provide the support you deserve",
+      "cta": "GET PERSONALIZED QUOTE",
+      "ctaHref": "/support/contact-us",
+      "ctaAlign": "center"
+    },
+    {
+      "id": 3,
+      "imageUrl": "/imgs/bg3.jpg",
+      "layout": "services",
+      "title": "Transform Your Business",
+      "services": [
+        "Custom Digital Solutions",
+        "SaaS-Based Solutions",
+        "Mobile App Solutions",
+        "Anything Digital You Can Imagine"
+      ],
+      "cta": "LET'S DISCUSS YOUR PROJECT",
+      "ctaHref": "/support/contact-us",
+      "ctaAlign": "left"
+    }
+  ]
+}
